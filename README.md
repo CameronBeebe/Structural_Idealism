@@ -6,6 +6,8 @@ Quite a lot of work to do.
 
 - Break out paper projects
 
-- Remove dead .tex notes and banter
+- Remove dead .tex notes/comments and banter
 
 - Add separate quote/note pages to this repo?
+
+- Outline of history/timeline
